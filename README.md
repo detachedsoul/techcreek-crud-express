@@ -2,16 +2,6 @@
 
 This is a solution to an assignment to create `Create`, `Read`, `Update`, and `Delete` operations using Express. Below are the endpoints and values to be used:
 
-## Database connection
-
-To test the endpoints, you need a database connection. The login details are:
-
-- `MongoDB url`: mongodb+srv://detachedsoul:YouDontLoveMe@cluster0.3e4ku.mongodb.net/blogDB?retryWrites=true&w=majority
-
-- `Port`: 8080
-
-I know you would be thinking: "Omo, make I just hack this thing." You won't find my atm pin there so don't bother. 😏
-
 ## IDs
 
 - 61faeb4fee9ee21357d6ee54
